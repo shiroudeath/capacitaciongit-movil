@@ -1,3 +1,0 @@
-esta es nuestra primera linea en este primer archivo
-esta es la segunda linea
-una modificacion de un archivo que esta en el stage area
